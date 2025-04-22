@@ -1,0 +1,40 @@
+[
+  {
+    "id": "chat_1.txt_0",
+    "speaker": "Myriam",
+    "text": "hi kings",
+    "context": [],
+    "timestamp": "05/03/2025, 2:18:17 PM"
+  },
+  {
+    "id": "chat_1.txt_1",
+    "speaker": "Myriam",
+    "text": "started the projets",
+    "context": [
+      "[05/03/2025, 2:18:17 PM] Myriam: hi kings"
+    ],
+    "timestamp": "05/03/2025, 2:18:22 PM"
+  },
+  {
+    "id": "chat_1.txt_2",
+    "speaker": "Myriam",
+    "text": "have the 1er la next week",
+    "context": [
+      "[05/03/2025, 2:18:17 PM] Myriam: hi kings",
+      "[05/03/2025, 2:18:22 PM] Myriam: started the projets"
+    ],
+    "timestamp": "05/03/2025, 2:18:31 PM"
+  },
+  {
+    "id": "chat_1.txt_3",
+    "speaker": "Myriam",
+    "text": "see u",
+    "context": [
+      "[05/03/2025, 2:18:17 PM] Myriam: hi kings",
+      "[05/03/2025, 2:18:22 PM] Myriam: started the projets",
+      "[05/03/2025, 2:18:31 PM] Myriam: have the 1er la next week"
+    ],
+    "timestamp": "05/03/2025, 2:18:35 PM"
+  }
+]
+  

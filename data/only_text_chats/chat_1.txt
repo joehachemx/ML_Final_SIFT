@@ -1,0 +1,542 @@
+hi kings
+balasho les projets
+eena le 1er la next week
+see u
+hi hobis
+fina nae une dataset ta esrod aaleya?
+shu aabelkon
+Baatilna optionss
+https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+this is one the best research papers ever published
+dataset kneyis aaraya
+in
+tpe send ici le assignment please
+Assignment 1 - Regression using deep learning
+chou aam taamlo en classe?
+helo
+Enta l helo ya joe
+Happy women’s day
+WAW
+ahla khabriye b hayete
+admirable
+Projet 2
+image classification?
+chou yaane
+Eh l badna ye
+Enno n2assim l images
+Ha bsayne
+Ha kaleb
+Exemple
+fina n2asim
+hayde ghada
+hayde benet tenye
+?
+Bedde hottak b incubateur
+Loute l zaber
+mnekhod pretrained model aw mnel sefer?
+s2alou
+Halla2 mnes2al
+Bass bhess men l sefer
+We train it
+nono
+ya des pretrained mode
+l
+tu les fine tune maa souwar
+bi siro 2weya
+w ya dautres
+kelchi mnel 0
+Nsina nes2alo
+Kena maytin
+Hello
+Aya se3a men sawir l video
+khalasna kelchi?
+eno wen serna fi
+Not
+Baad badna nzabbit kam chaghle bel code
+fikon tebaato wen serto w hej
+hek
+send the code please
+https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+dataset
+mshina comme le code du prof
+r2 score a la fin 0.98
+fi shi msh eneene
+rah jarib efham kif byetzabat
+lehh mich en3ik?
+c pas bien 0.98?
+Ktirrr mnih
+code seems good no?
+senye
+yemken
+im checking un truc
+3AM MOUT
+BRO L AI KTIR AWE
+W ZABER
+Ktir
+shuf l tablo foe
+l actual vs predicted
+Ehh ehh
+bas aam beteakad esa overfitting
+b koun caca
+aal zbele yeene
+Ana 3am chouf l relu w hol
+att
+Layke bchekk
+senye aam shuf
+Ok sma3e
+Rah erjaa jarbo baad chwey
+Ma3 a2al epochs
+Barke la2an ktar
+EHHH TU AS RAISON
+bas att aam zabet le code
+rah erjaa ebaatlak new version
+w jarebo maa aeal epochs
+Deall
+Deall
+Rah hot 300
+Bhess 3al 1000
+Hofiz ld ata
+Nehna 3anna 1000
+Ehh chefta
+Bass sma3e
+Loss
+Men epoch 0
+La 100
+Kbire ktir
+L ba2we ktir rawa2
+eh c un bon signe
+car balash yetaalam aal 100
+tamem laken lesim ktir nkhafefa
+Miye miye
+Yaane mafroud rawa2
+fa c un bon signe
+Lah
+Sma3e
+Fhalat
+wattiya aal 400
+Ehh yall
+Send l code
+yala
+3am befham elu w relu
+kls nayemlon hol
+mafishi tefhamo
+elu lal neg
+msh aawzina nehna
+Eh bass ana ele
+Efham un peu
+400 epoch
+Tolo3le nafs l chi
+yi
+Joe
+Ayya se3a fik
+Lal video
+Ana 3ande scout
+Rah ekhoud laptope ma3e
+baat ekhir code pls
+epoch 200
+early stoppage
+weinak
+ayya seaa fik
+Ento edrin??
+Now?
+https://meet.google.com/wdk-vfcd-oes
+senye ta terjaa
+:|
+La emta l devoir
+idk
+bro c pr auj?
+no next week
+Guys
+Badna nnik ekhto
+Ana ktir mhammas
+HHAHAHAHAHAA
+eh nehna kamen
+joe : “g trop didees”
+Idees chou
+lal projet
+Bedkon nbalish lyom?
+Hek hek mafi deadlines
+hbb fi tabaa this week classification
+helo l hames
+Eh eno mnaamelon
+bedak taamel cerise bala gateau
+Bonjour
+BEDNA NROUE BATAL
+Ma thamsoune
+ana thammast
+hammasoune
+Ana mhammas
+AHHAHHAHHAHHAHA
+waw
+hi
+ghada : babe
+Khalas moss
+Wer
+jagalingo
+lek walla
+whatsapp bot
+mnebaatlo michel
+JAGALINGO
+NOWAYY
+HAHAHHAA TFFFFFFF
+hlof ma btaarfi
+gay
+Sabaho
+hi
+ma bae fi waet
+esa ma bedkon nae sawa aan shu naamel
+w esa bedkon ma naamlo
+ma mnaamlo
+Badkoun nechteghil from scratch fina
+hi
+aw lek
+nationality detection
+mutliclass image classification
+men ballich bi kam nationalities
+w baaden bi sir yehzar
+aw age
+chi hek
+chou awkon
+awlkon
+w men khabbir kif aam ne2wa
+esa bedkon shi halead saaeb
+sarle men l awal beelkon pls netefie aa shi
+deadline aya se3a?
+rawa2 c pas dure
+eza data mawjoude aa kaggle
+mnekhod multiple datasets
+Ma fi dataset
+Souwar 3an ness around the world
+E3id 3am nabbich niw
+Fina naamil wildfires
+Fina naamil eza cat aw dog
+https://www.kaggle.com/datasets/anamibnjafar0/flamevision
+je propose taba3 el age
+car fiya chwayit tefkir
+deal ok
+https://paperswithcode.com/datasets?task=age-estimation
+https://www.kaggle.com/datasets?search=age+
+hi
+myriam weeyit
+w khelso l epochs
+aam shuf kif we test
+enso
+maafan
+sayib 75/1956
+leh bas??
+saraha
+mbaarf
+men wen b jibo un algorithme mrattab
+?
+celui du prof mich mnih?
+mano mestaamel cnn
+b tabaao
+Maak 15min?
+Chwey mentek l wade3
+chou sayir??
+badkon nekhod another dataset?
+btaarfo le reste chou aamil?
+no
+shu l aamal
+c quoi la resolution de vos photos?
+ka pixels
+are you resizing everything? if yes, are you telling the pipeline ede your resolution is?
+la convolution should happen on everything
+resizing eh
+ede?
+the shape
+make sure the pipeline knows this
+128,128
+your pipeline knows this?
+la convolution aam ten3amal aa hol?
+give your code to gpt w tell him your resolution is 128x128
+w 3 channels
+car rgb
+so yzabit le code
+ta temche
+ensa kenet aamle hek w ma ghayar shi
+w aam yekhod 2 heures training
+on se base aa gpt
+noway yemche hek
+ha lee shi aa ytb
+saraha
+le prof mich mnazal code?
+leh ma mnekhod nafso
+bas aa differetn dataset
+dataset tabaao table
+fiya pixels
+msh hatta souwar
+ahh nicee
+l2ite tutorial mnih for keras?
+look for medium blogs
+or youtube video
+mno2rot son script
+men ghayir la dataset
+w kholsit
+aal sari3
+on a juska minui sah/
+>
+?
+eh
+Badna naamoul l vid
+Fik?
+yess
+Yalla ta naamil scipt zaghtour
+ok heyde ktir biide
+ma marrane enough
+baddik aamlo la 15 epochs?
+baddo chi 30min
+ehh do it
+a2al chwey
+lae
+elie
+sawerle kif l errors tahet
+bel training pls
+kif mbaynin eendak
+ta shuf esa btehmol 15 aw lae
+hein
+ah
+bel training
+l epochs
+btehmoul baad 2
+bhess
+ekhri mae
+balalchi 5.2
+rejiit tol3it
+so bhess fina nazela baad chwey
+baamela 12 epochs?
+no
+att
+wetransfer
+wetransfer.com
+import pickle
+import pickle
+taao aanjad njareb
+aa souwarna
+shu byaatina
+Ok ghayaret kam chaghle
+bhes bade chi 30-40 mins w fina nballich bel video
+oki
+Ma assarit ktir
+b aaeid
+eh
+save
+aw pkl
+PKL
+PIKELEYE
+yalla
+bedna nhott souretna
+Age
+12
+Predicted age
+48
+yala sayvo
+w baato
+ta naamel aal aewa
+Oule plz wer
+KING ENTA
+Min mfakra halik
+Ayre b manzarik
+hobi
+bass btaarf min a2wa men hayda
+the goat
+meeriam
+waww
+balcho bi le script
+ana rah ehke 2 mots aan la demo
+w aamol share screen aa dawre
+rah ekhod chi 20 secs
+ehke code + demo
+Deall
+Lek bhess ahyan
+Eza enta btaamil share
+No?
+Hek ma men baddil nass swtich lal demo
+rawae
+esa lae ana baamel
+kenna hek naamol abel
+3 share screen different
+rawa2
+camera on ma tenso
+oul bedak tshufna
+Lekk
+Fina baleha
+Ana soone chwey
+kifak
+lae
+bako al bel saf
+bedo camera
+bedna nshufak
+aatoune vos matricules
+ched halak
+220801
+yalla
+baad chway
+220636
+tala3le error aal website
+bro ktir bi khawfo el souwar
+fina nhott la photo de elie ?
+Braidy
+Ma tkhaline eftah
+Troupe tiguas
+Ma tkhaline
+rambo
+roue
+leh ma fik teftah camera
+w tfarjina jamelak
+La2an fi ente
+Ma fiye darib 3layke
+lak
+bro bas chou hal souwar
+walla bi khawfo
+W BAS B KHAWFO
+ya mami
+lek
+can you save the model bi gher tari2a?
+h5 format
+fi hekshi
+b hemak?
+import tensorflow as tf
+elie do this please
+bro ktir daya3le wa2et hal model
+car le format ma byemche web
+ma kenet aarif
+rah yaatik folder
+zip it w send it
+ah uf
+sayea
+Yalla
+Pip install tensorglowjs
+W btaamil
+ede size
+el image
+li lezim faweta bel model
+64
+64,64
+Joe adde baad baddak wa2t
+lek I will fake it
+aatoune 10 mins
+fouto
+https://ml-vibe-benchmark.vercel.app/
+bedna nsawir ml now
+hi
+hi
+eh lesim nsawer l video
+ana seet l bedkon no prob
+aya seaa fikon ento
+8 pm
+business man
+loute
+abel
+jarabto?
+ana ehh
+ktir awe HHAHAHA
+Akhou manyiuke
+double check aal sari3 please
+good job shabeb
+see u next time
+eumazingg
+trop drole
+waw
+hi
+hi
+liom ma fina netreko la ekhir takke pls
+lesim nhott shu bedna nestaamel bel proposal?
+w esa ma eena business acc ?
+ah
+okk chill
+khalas
+baaed bedo bas for now hek
+esa hada aabelo yshuf shu aam bektob
+aw eendkon teelie
+aw shi
+HAHAHAHAHA mafi menak
+khalesne 2ri
+Braidy
+Ana se2a 3amya
+Mokbel
+skot
+Halla2 bo2ri ya ousal
+Reference from the official Apple website: https://support.apple.com/en-lb/guide/iphone/iph1fbe7d2b9/ios
+fina nzid cette reference aam b fasro apple shu l concept
+baaed lesim nzid khbar
+Bas
+idk shu ma aabele ektob khbar w khabbis
+yalla aam choufo
+rah ehtam bel pdf
+aamelo le ppt
+call at 7
+mnehke chway w mnaamol la video sob 7:20-30
+inv
+in?
+In
+Bass tkhalso send
+3eyzino lal ppt
+hi
+c pas la derniere version
+bas c la base
+Aweee
+ento cava?
+fik tebaatle template ppt tabaak
+aw baamel template men eende?
+comme tu veux
+hayda tabaa innovation
+deal thanks
+aya se3a badkon naamol la video
+Idm
+bedkon hott bel ppt exemple kif byetlaao l exported chats ?
+aw nayim
+byenzaalo shaklo
+nayim
+w c koi le titre du projet?
+faut mettre un titre?
+hotte bas ML Final Project Proposal
+apres men le2e un nom
+Kingg
+Emta bsdkoun?
+sawrouwa baleye
+maale
+Joe
+Ana w braidy
+8:22 msakrin khatna
+weinak
+yakka
+yalla
+Imagine you’re trying to focus on your studies, but your phone keeps buzzing with WhatsApp notifications in Franco-Arabic, the way many Lebanese people text. It's easy to miss important messages or get distracted by less urgent ones. That's where our project comes in. We’re creating a smart assistant that works just like Apple’s "Priority Notifications" but designed specifically for the Lebanese context. Our system will automatically summarize WhatsApp messages, highlight what’s important, and help you stay on track without the distractions. It’ll understand Franco-Arabic, so you don’t have to worry about missing out on key information or wasting time scrolling through endless chats. It’s the perfect solution for students who want to focus, stay organized, and never miss an important message again.
+jai submit ca
+men zid souwar avant la presentation
+bel ppt
+Perfext
+merci
+hi
+hi
+hi
+hi
+oui
+faut preparer la presentation
+oui
+ok
+le soir
+et demain abel l seaa
+easy
+et le soir
+easy
+Bkra nehna ayya se3a men addim
+aal 2:35 ig
+awal nes
+shi hek
+awal groupe nahna
+Helo
+enta l helo
+Hello
+we have the presentation today
+so excited
+At what time is our team presenting?
+at 2:30 pm
+deal
+Hello
+Sup
+we have the final presentation today
+so excited !!!
+At what time do we present?
+2:25pm
